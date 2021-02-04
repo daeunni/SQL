@@ -1,2 +1,3 @@
 # SQL
-SQL은 꼭 필요하더라~
+- FastCampas SQL 강의 
+- PostgreSQL
